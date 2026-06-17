@@ -1,0 +1,11 @@
+streamlit
+pandas
+pandasql
+python-dotenv
+groq
+chromadb
+sentence_transformers
+colorlog
+openai>=1.10.0
+pydantic>=2.0.0
+semantic-router
